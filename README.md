@@ -16,7 +16,7 @@ Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo
   - ¿Cuál es el comando que se utiliza para ver campos vacíos o desconocidos?
   - ¿Cuál es el comando que crea un objeto dentro de una base de datos?
 
-2. Ejercicio práctico.
+2. Ejercicio práctico.  
 Dentro de la carpeta data se encuentra el archivo `Examen Práctico.xlsx` en el cual cada hoja del documento hace referencia a una tabla SQL, tomando como base este documento, conteste lo siguiente:
   - Que script se utilizaría para conocer el dato de:
     1. Insertar un registro en la tabla Tbl_Recuperacion
